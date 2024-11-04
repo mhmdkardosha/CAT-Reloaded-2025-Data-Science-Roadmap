@@ -16,7 +16,7 @@ The roadmap is divided into 4 main levels, each level will be divided into weeks
 5. Advanced B: Deep Learning and specializing in a specific field.
 ```
 
-### 2.1. Entry Level
+## 2.1. Entry Level
 
 It includes the following topics:
 
