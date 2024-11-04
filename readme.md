@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-It's a multidisciplinary field that focuses on looking at raw and structured data sets and providing potential actionable insights. The field of Data Science looks at ensuring we are asking the right questions as opposed to finding exact answers. Data Scientist require skillsets that are centered on Computer Science, Mathematics, and Statistics. Data Scientist use several unique techniques to analyze data such as machine learning, trends, linear regressions, and predictive modeling. The tools Data Scientist use to apply these techniques include Python and R.
+It's a multidisciplinary field that looks at raw and structured data sets and provides potentially actionable insights. The field of data science looks at ensuring that we are asking the right questions as opposed to finding exact answers. Data Scientists require skillsets that are centered on Computer Science, Mathematics, and Statistics. Data Scientists use several unique techniques to analyze data such as machine learning, trends, linear regressions, and predictive modeling. The tools Data Scientists use to apply these techniques include Python and R.
 
 ## 2. Levels
 
@@ -11,14 +11,14 @@ The roadmap is divided into 4 main levels, each level will be divided into weeks
 ```plaintext
 1. Entry: Good introduction to the field.
 2. Beginner: Data scientist toolkit and foundations.
-3. Intermediate: Dive deeper and make a solid understanding of working with data.
+3. Intermediate: Dive deeper and solidly understanding and working with data.
 4. Advanced A: Mathematics and Machine Learning.
 5. Advanced B: Deep Learning and specializing in a specific field.
 ```
 
-## 2.1. Entry Level
+### 2.1. Entry Level
 
-It include the following topics:
+It includes the following topics:
 
 - Data Literacy
 - Understanding Data Science.
