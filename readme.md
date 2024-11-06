@@ -300,3 +300,158 @@ It includes the following topics:
                 </ol>
     </tbody>
 </table>
+
+## 2.3. Intermediate Level
+
+It includes the following topics:
+
+- Regular Expressions (RegEx)
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis
+- Web Scraping
+- Structured Query Language (SQL)
+
+<table>
+    <thead>
+        <tr>
+            <th>Week 1</th>
+            <td>
+                <ol>
+                    <li>🔣 Regular Expressions (Regex)</li>
+                </ol>
+            </td>
+            <td>
+                <ul>
+                    <h3>🚀 Base resources</h3>
+                    <li><a href="https://app.datacamp.com/learn/courses/regular-expressions-in-python">Regular Expressions in Python</a>: 4-hours DataCamp course (requires subscription).</li>
+                    <h3>💡 Alternative resources</h3>
+                    <li><a href="https://www.w3schools.com/python/python_regex.asp">Python RegEx documentation</a>.</li>
+                    <li><a href="https://youtu.be/K8L6KVGG-7o?si=SZYD07npXZ74qyUD">Corey Schafer | Regular Expressions</a>: 1-hour YouTube video (Free).</li>
+                    <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=K2_7VELcasmhtGc8">Osama Elzero | Regular Expressions Arabic course</a>: YouTube playlist from 95th video to 102th video (Free).</li>
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>🏆 Complete the Regular Expressions in Python course.</li>
+                    <li>📝 Quiz.</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 2</th>
+            <td>
+                <ol>
+                    <li>🧹 Data Cleaning</li>
+                </ol>
+            </td>
+            <td>
+                <ul>
+                    <h3>🚀 Base resources</h3>
+                    <li><a href="https://app.datacamp.com/learn/courses/cleaning-data-in-python">Cleaning Data in Python</a>: 4-hours DataCamp course (requires subscription).</li>
+                    <li><a href="https://www.kaggle.com/learn/data-cleaning">Data Cleaning Kaggle tutorial</a></li>
+                    <li><a href="https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4">Data Cleaning Medium article</a></li>
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>🏆 Complete the Cleaning Data in Python course.</li>
+                    <li>📝 Read the blog and extract your insights from it.</li>
+                    <li>💡 Practicing in a notebook with any dataset.</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 3</th>
+            <td>
+                <ol>
+                    <li>🛠 Feature Engineering</li>
+                </ol>
+            </td>
+            <td>
+                <ul>
+                    <h3>🚀 Base resources</h3>
+                    <li><a href="https://app.datacamp.com/learn/courses/feature-engineering-for-machine-learning-in-python">Feature Engineering for Machine Learning in Python</a>: 4-hours DataCamp course (requires subscription).</li>
+                    <li><a href="https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114">Feature Engineering Medium article</a></li>
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>🏆 Complete the Feature Engineering for Machine Learning in Python course.</li>
+                    <li>📝 Read the blog and extract your insights from it.</li>
+                    <li>💡 Practicing in a notebook with any dataset.</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 4</th>
+            <td>
+                <ol>
+                    <li>🔍 Exploratory Data Analysis (EDA)</li>
+                </ol>
+            </td>
+            <td>
+                <ul>
+                    <h3>🚀 Base resources</h3>
+                    <li><a href="https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python">Exploratory Data Analysis in Python</a>: 4-hours DataCamp course (requires subscription).</li>
+                    <li><a href="https://towardsdatascience.com/exploratory-data-analys is-8fc1cb20fd15">Exploratory Data Analysis Medium article</a></li>
+                    <h3> 💡 Alternative resources</h3>
+                    <li><a href="https://www.youtube.com/watch?v=FNLLxYcUnowsss">Satyajit Pattnaik | EDA from Scratch</a>: 5-hours YouTube video (Free).</li>
+                    <li><a href="https://www.youtube.com/watch?v=MoM6mighOJM">Simplilearn | Exploratory Data Analysis In Python</a>: 1-hour YouTube video (Free).</li>
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>🏆 Complete the Exploratory Data Analysis in Python course.</li>
+                    <li>📝 Read the blog and extract your insights from it.</li>
+                    <li>💡 Practicing in a notebook with any dataset.</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 5</th>
+            <td>
+                <ol>
+                    <li>🕸 Web Scraping</li>
+                </ol>
+            </td>
+            <td>
+                <ul>
+                    <h3>🚀 Base resources</h3>
+                    <li><a href="https://youtu.be/taL3r_JpwBg?si=WP4fGnx8fp47IBgZ">Codezilla | Web Scraping with Python Arabic</a>: 1-hour YouTube video (Free).</li>
+                    <h3> 💡 Alternative resources</h3>
+                    <li><a href="https://app.datacamp.com/learn/courses/web-scraping-with-python">Web Scraping with Python</a>: 4-hours DataCamp course (requires subscription).</li>
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>🏆 Complete Codezilla's Web Scraping with Python course.</li>
+                    <li>💡 Practice and scrape any website.</li >
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 6</th>
+            <td>
+                <ol>
+                    <li>🗃 Structured Query Language (SQL)</li>
+                </ol>
+            </td>
+            <td>
+                <ul>
+                    <h3>🚀 Base resources</h3>
+                    <li><a href="https://app.datacamp.com/learn/skill-tracks/sql-fundamentals">SQL Fundamentals</a>: 26-hours DataCamp skill track (requires subscription).</li>
+                    <h3> 💡 Alternative resources</h3>
+                    <li><a href="https://www.udacity.com/course/sql-for-data-analysis--ud198">Udacity | SQL For Data Analysis</a>: Udacity course (Free).</li>
+                    <li><a href="https://www.youtube.com/watch?v=kb-_GbpH3sQ">Big Data | SQL For Data Analysis Arabic</a>: 10-hours YouTube video (Free).</li>
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>🏆 Complete the skill track.</li>
+                    <li>💡 Practice problems on HackerRank.</li>`
+                </ol>
+            </td>
+        </tr>
+    </tbody>
+</table>
