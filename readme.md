@@ -92,9 +92,7 @@ It includes the following topics:
         <tr>
             <th>Week 3</th>
             <td>
-                <ol>
-                    <li>🐍 Python Basics</li>
-                </ol>
+                🐍 Python Basics
             </td>
             <td>
                 <ul>
@@ -116,9 +114,7 @@ It includes the following topics:
         <tr>
             <th>Week 4</th>
             <td>
-                <ol>
-                    <li>🐍 OOP in Python</li>
-                </ol>
+                🐍 OOP in Python
             </td>
             <td>
                 <ul>
@@ -162,9 +158,7 @@ It includes the following topics:
         <tr>
             <th>Week 1</th>
             <td>
-                <ol>
-                    <li>🔢 NumPy</li>
-                </ol>
+                🔢 NumPy
             </td>
             <td>
                 <ul>
@@ -186,9 +180,7 @@ It includes the following topics:
         <tr>
             <th>Week 2</th>
             <td>
-                <ol>
-                    <li>🐼 Pandas</li>
-                </ol>
+                🐼 Pandas
             </td>
             <td>
                 <ul>
@@ -211,9 +203,7 @@ It includes the following topics:
         <tr>
             <th>Week 3</th>
             <td>
-                <ol>
-                    <li>〽️ Matplotlib</li>
-                </ol>
+                〽️ Matplotlib
             </td>
             <td>
                 <ul>
@@ -235,9 +225,7 @@ It includes the following topics:
         <tr>
             <th>Week 4</th>
             <td>
-                <ol>
-                    <li>🌊 Seaborn</li>
-                </ol>
+                🌊 Seaborn
             </td>
             <td>
                 <ul>
@@ -258,9 +246,7 @@ It includes the following topics:
         <tr>
             <th>Week 5</th>
             <td>
-                <ol>
-                    <li>📊 Power BI</li>
-                </ol>
+                📊 Power BI
             </td>
             <td>
                 <ul>
@@ -281,9 +267,7 @@ It includes the following topics:
         <tr>
             <th>Week 6</th>
             <td>
-                <ol>
-                    <li>🔗 Git & GitHub</li>
-                </ol>
+                🔗 Git & GitHub
             </td>
             <td>
                 <ul>
@@ -315,11 +299,17 @@ It includes the following topics:
 <table>
     <thead>
         <tr>
+            <th>📅 Phase</th>
+            <th>📚 Topics</th>
+            <th>📖 Resources</th>
+            <th>✅ Tasks</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
             <th>Week 1</th>
             <td>
-                <ol>
-                    <li>🔣 Regular Expressions (Regex)</li>
-                </ol>
+                🔣 Regular Expressions (Regex)
             </td>
             <td>
                 <ul>
@@ -341,9 +331,7 @@ It includes the following topics:
         <tr>
             <th>Week 2</th>
             <td>
-                <ol>
-                    <li>🧹 Data Cleaning</li>
-                </ol>
+                🧹 Data Cleaning
             </td>
             <td>
                 <ul>
@@ -364,9 +352,7 @@ It includes the following topics:
         <tr>
             <th>Week 3</th>
             <td>
-                <ol>
-                    <li>🛠 Feature Engineering</li>
-                </ol>
+                🛠 Feature Engineering
             </td>
             <td>
                 <ul>
@@ -386,9 +372,7 @@ It includes the following topics:
         <tr>
             <th>Week 4</th>
             <td>
-                <ol>
-                    <li>🔍 Exploratory Data Analysis (EDA)</li>
-                </ol>
+                🔍 Exploratory Data Analysis (EDA)
             </td>
             <td>
                 <ul>
@@ -411,9 +395,7 @@ It includes the following topics:
         <tr>
             <th>Week 5</th>
             <td>
-                <ol>
-                    <li>🕸 Web Scraping</li>
-                </ol>
+                🕸 Web Scraping
             </td>
             <td>
                 <ul>
@@ -433,9 +415,7 @@ It includes the following topics:
         <tr>
             <th>Week 6</th>
             <td>
-                <ol>
-                    <li>🗃 Structured Query Language (SQL)</li>
-                </ol>
+                🗃 Structured Query Language (SQL)
             </td>
             <td>
                 <ul>
@@ -455,3 +435,203 @@ It includes the following topics:
         </tr>
     </tbody>
 </table>
+
+## 2.4. Advanced A Level
+
+It includes the following topics:
+
+- Math required for Machine Learning:
+  - Linear Algebra
+  - Multi-variate Calculus
+- Machine Learning Algorithms:
+  - Supervised Learning
+  - Unsupervised Learning
+  - Ensemble Learning
+- Model Evaluation and Selection
+- APIs
+- Model Deployment
+
+<table>
+    <thead>
+        <tr>
+            <th>📅 Phase</th>
+            <th>📚 Topics</th>
+            <th>📖 Resources</th>
+            <th>✅ Tasks</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Week 1</th>
+            <td>
+                🔢 Linear Algebra
+            </td>
+            <td>
+                <ul>
+                    <h3>🚀 Base resources</h3>
+                    <li><a href="https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning">Imperial College London | Linear Algebra </a>: 16-hours Coursera course (you can apply for a financial aid).</li>
+                    <h3> 💡 Alternative resources</h3>
+                    <li><a href="https://www.3blue1brown.com/topics/linear-algebra">3Blue1Brown | Essence of Linear Algebra</a>:  Free course (recommended).</li>
+                    <li><a href="https://www.khanacademy.org/math/linear-algebra">Khan Academy | Linear Algebra</a>: Free course.</li>
+                    <li><a href="https://youtube.com/playlist?list=PL49CF3715CB9EF31D&si=TRVsXm-kF8ijaB24">MIT OpenCourseWare | Linear Algebra</a>: You can watch this along the way while you learning ML because it's a massive playlist full of ideas.</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ">Linear Algebra Arabic course</a>: YouTube playlist (Free).</li>
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>🏆 Complete the Imperial College London course.</li>
+                    <li>📝 Quiz.</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 2</th>
+            <td>
+                📈 Multi-variate Calculus
+            </td>
+            <td>
+                <ul>
+                    <h3>🚀 Base resources</h3>
+                    <li><a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning">Imperial College London | Multivariate Calculus</a>: 15-hours Coursera course (you can apply on a financial aid).</li>
+                    <h3> 💡 Alternative resources</h3>
+                    <li><a href="https://www.3blue1brown.com/topics/calculus">3Blue1Brown | Essence of Calculus</a>: Free course (recommended).</li>
+                    <li><a href="https://www.khanacademy.org/math/multivariable-calculus">Khan Academy | Multivariable Calculus</a>: Free course.</li>
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>🏆 Complete the Imperial College London course.</li>
+                    <li>📝 Quiz.</li>
+                </ol>
+            </td>
+        </tr>
+        </tbody>
+</table>
+
+In this stage you are ready to dive deep in the world of Machine Learning. The following  resources are general and not divided into categories or weeks, you can follow them in parallel with the base resources in the weeks as a supplementary resource if you want.
+
+- [ٍStateQuest | Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+- [Data School | Machine Learning](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
+- [Machine Learning from Scratch | YouTube playlist](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+- [Machine Learning Mastery](https://machinelearningmastery.com/start-here/#getstarted)
+- [Udacity | Intro to Machine Learning](https://www.udacity.com/enrollment/ud120)
+- [Sentdex | Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+- [Hesham Asem | YouTube Arabic playlists](https://www.youtube.com/c/HeshamAsem/playlists)
+- [Machine Learning in Arabic](https://www.youtube.com/playlist?list=PLtsZ69x5q-X9j44MdSX-NGuOhGXOY0aqH)
+
+Now we let's continue the roadmap into weeks.
+<table>
+    <thead>
+        <tr>
+            <th>📅 Phase</th>
+            <th>📚 Topics</th>
+            <th>📖 Resources</th>
+            <th>✅ Tasks</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Weeks 3 - 4</th>
+            <td>
+                🕵️ Supervised Learning
+            </td>
+            <td>
+                <ul>
+                    <h3>🚀 Resources</h3>
+                    <li><a href="https://www.coursera.org/learn/machine-learning">Andrew Ng | Machine Learning</a>: 34-hours Coursera course (you can apply for a financial aid).</li>
+                    <li><a href="https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn">Supervised Learning with Scikit-Learn</a>: 4-hours DataCamp course (requires subscription).</li>
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>🏆 Complete Andrew Ng's course.</li>
+                    <li>🏆 Complete the DataCamp course.</li>
+                    <li>📝 Quiz.</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <th>Weeks 5 - 14</th>
+            <td>
+                📖 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition
+            </td>
+            <td>
+                <ul>
+                   Every week, we will study a chapter from the <a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">book</a> until we reach chapter 9, the end of the machine learning section in the book.
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>🏆 Study the chapter and summarize it.</li>
+                    <li>📝 Quiz on each chapter.</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <th>Weeks 15 - 16</th>
+            <td>
+                <ul>
+                    <li>🤖 Unsupervised Learning </li>
+                    <li>֎ Reinforcement Learning </li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <h3>🚀 Resources</h3>
+                    <li><a href="https://app.datacamp.com/learn/courses/unsupervised-learning-in-python">Unsupervised Learning in Python</a>: 4-hours DataCamp course (requires subscription).</li>
+                    <li><a href="https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction">Andrew Ng | Unsupervised Learning, Recommenders, Reinforcement Learning</a>: 27-hours Coursera course (you can apply for a financial aid).</li>
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>🏆 Complete the DataCamp course.</li>
+                    <li>🏆 Complete Andrew Ng's course.</li>
+                    <li>📝 Quiz.</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <th>Weeks 17 - 18</th>
+            <td>
+                 <ul>
+                    <li>🌲 Ensemble Learning </li>
+                    <li>⚛ Neural Networks </li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <h3>🚀 Resources</h3>
+                    <li><a href="https://app.datacamp.com/learn/courses/machine-learning-with-tree-based-models-in-python">Machine Learning with Tree-Based Models in Python</a>: 5-hours DataCamp course (requires subscription).</li>
+                    <li><a href="https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction">Andrew Ng | Advanced Learning Algorithms</a>: 34-hours Coursera course (you can apply for a financial aid).</li>
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>🏆 Complete the DataCamp course.</li>
+                    <li>🏆 Complete Andrew Ng's course.</li>
+                    <li>📝 Quiz.</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 20</th>
+            <td>
+                🌐 APIs
+            </td>
+            <td>
+                <ul>
+                    <h3>🚀 Resources</h3>
+                    <li><a href="https://app.datacamp.com/learn/courses/introduction-to-apis-in-python">Introduction to APIs in Python</a>: 2-hours DataCamp course (requires subscription).</li>
+                    <li><a href="https://app.datacamp.com/learn/courses/introduction-to-fastapi">Introduction to FastAPI</a>: 4-hours DataCamp course (requires subscription).</li>
+                </ul>
+            </td>
+            <td>
+                <ol>
+                    <li>🏆 Complete the DataCamp courses.</li>
+                    <li>💡 Practice.</li>
+                </ol>
+            </td>
+        </thead>
+</table>
+
+In this stage, you now have strong basics about machine learning algorithms and how it works. Also you learned about APIs and how to use them. Now you are ready to train models, practice on datasets and make some projects involoving the algorithms you learned. You may also make a machine learning alogrithm from **scratch**; it would be a great practice to understand the algorithms more.
