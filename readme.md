@@ -449,7 +449,6 @@ It includes the following topics:
   - Ensemble Learning
 - Model Evaluation and Selection
 - APIs
-- Model Deployment
 
 <table>
     <thead>
