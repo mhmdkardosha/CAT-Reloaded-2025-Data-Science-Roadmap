@@ -279,6 +279,7 @@ It includes the following topics:
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR">The Net Ninja | Git & GitHub tutorial</a>: 1.5-hours YouTube playlist (Free).</li>
                     <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=d5G5A-xQhcNtI-qG">Osama Elzero | Git & GitHub Arabic course</a>: YouTube playlist (Free).</li>
                     <li><a href="https://almdrasa.com/tracks/programming-foundations/courses/git-github/">Ahmed Fathy | Git & GitHub Arabic course</a>: Almdrasa course (Free).</li>
+                    <li><a href="https://youtu.be/Q6G-J54vgKc?si=rsvkO9inU_VwPduX">Big Data With Arabic | Git & GitHub Arabic video</a>: a 6-hours YouTube video (recommended but intensive).</li>
                 </ul>
             </td>
             <td>
