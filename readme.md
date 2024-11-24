@@ -2,7 +2,11 @@
 
 ## 1. Introduction
 
-It's a multidisciplinary field that looks at raw and structured data sets and provides potentially actionable insights. The field of data science looks at ensuring that we are asking the right questions as opposed to finding exact answers. Data Scientists require skillsets that are centered on Computer Science, Mathematics, and Statistics. Data Scientists use several unique techniques to analyze data such as machine learning, trends, linear regressions, and predictive modeling. The tools Data Scientists use to apply these techniques include Python and R.
+It's a multidisciplinary field that looks at raw and structured data sets and provides potentially actionable insights. The field of data science looks at ensuring that we are asking the right questions as opposed to finding exact answers. Data Scientists require skillsets centered on Computer Science, Mathematics, and Statistics. Data Scientists use several unique techniques to analyze data such as machine learning, trends, linear regressions, and predictive modeling. The tools that data scientists use to apply these techniques include Python and R.
+
+- These are small differences between each job title:
+
+![Data-Science-ezgif com-webp-to-jpg-converter](https://github.com/user-attachments/assets/05340015-21f8-42dd-a8a0-0aee222edf8c)
 
 ## 2. Levels
 
