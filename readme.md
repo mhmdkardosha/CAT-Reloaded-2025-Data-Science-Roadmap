@@ -16,7 +16,7 @@ The roadmap is divided into 4 main levels, each level will be divided into weeks
 
 1. [**Entry**](#entry): Good introduction to the field.
 2. [**Beginner**](#beginner): Data scientist toolkit and foundations.
-3. [**Intermediate**](#intermediate): Dive deeper and solidly understanding and working with data.
+3. [**Intermediate**](#intermediate): Dive deeper and solidly understand and work with data.
 4. [**Advanced A**](#advanced-a): Mathematics and Machine Learning.
 5. [**Advanced B**](#advanced-b): Deep Learning and specializing in a specific field.
 
@@ -222,7 +222,7 @@ It includes the following topics:
                 <ol>
                     <li>🏆 Complete Understanding Data Visualization course.</li>
                     <li>🏆 Complete Corey Schafer's course.</li>
-                    <li>💡 Practice and document all what you learnt in a notebook.</li>
+                    <li>💡 Practice and document all that you learned in a notebook.</li>
                 </ol>
             </td>
         </tr>
@@ -243,7 +243,7 @@ It includes the following topics:
             <td>
                 <ol>
                     <li>🏆 Complete Kimberly Fessel's course.</li>
-                    <li>💡 Practice and document all what you learnt in a notebook.</li>
+                    <li>💡 Practice and document all that you learned in a notebook.</li>
                 </ol>
             </td>
         </tr>
@@ -637,15 +637,16 @@ Now we let's continue the roadmap into weeks.
         </thead>
 </table>
 
-In this stage, you now have strong basics about machine learning algorithms and how it works. Also you learned about APIs and how to use them. Now you are ready to train models, practice on datasets and make some projects involoving the algorithms you learned. You may also make a machine learning alogrithm from **scratch**; it would be a great practice to understand the algorithms more.
+In this stage, you now have strong basics about machine learning algorithms and how it works. Also, you learned about APIs and how to use them. Now you are ready to train models, practice on datasets, and make some projects involving the algorithms you learned. You may also make a machine learning algorithm from **scratch**; it would be great practice to understand the algorithms more.
 
 <h2 id=advanced-b> 2.5. Advanced B Level</h2>
-In this stage you will enter Deep Learning and NLP World. It's divided into there phases:
-- Phase 1: Basic concepts of Deep Learning (NN, CNN, RNN, Backprpagation, Optimizers, etc.)
+
+In this stage, you will enter the Deep Learning and NLP World. It's divided into three phases:
+- Phase 1: Basic concepts of Deep Learning (NN, CNN, RNN, Backpropagation, Optimizers, etc.)
 - Phase 2: Transformers and LLMs.
 - Phase 3: NLP fields.
 
-### 2.5.1. Phase 1: Basic concepts of Deep Learning
+### 2.5.1. Phase 1: Basic Concepts of Deep Learning
 <table>
     <thead>
         <tr>
@@ -693,7 +694,7 @@ In this stage you will enter Deep Learning and NLP World. It's divided into ther
                 <ul>
                     <h3>🚀 Resources</h3>
                     <li><a href="https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning">Andrew Ng | Improving Deep NN</a>: 20-hours Coursera course (you can apply for a financial aid).</li>
-                    <li><a href="https://youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&si=xDzbDOZZrradFBB6">PyTorch Tutorials</a>: 8 videos from this playlist will be enough to learn PyTorch and enable you to implement all those stuffs easily.</li>
+                    <li><a href="https://youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&si=xDzbDOZZrradFBB6">PyTorch Tutorials</a>: 8 videos from this playlist will be enough to learn PyTorch and enable you to implement all those stuff easily.</li>
                     <li><a href="https://drive.google.com/drive/folders/1oT8unPa8MlcKSoXG8f5MokcHkLzmOQJr?usp=drive_link">Ahmed Hany | Hands-on-PyTorch Arabic video</a>: 1-hour video that will help you a lot to begin with PyTorch.</li>
                     <h3> 💡 Alternative resources</h3>
                     <li><a href="https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-pytorch">Introduction to Deep Learning with PyTorch</a>: 4-hours DataCamp course (requires subscription).</li>
@@ -740,8 +741,8 @@ In this stage you will enter Deep Learning and NLP World. It's divided into ther
                 <ul>
                     <h3>🚀 Resources</h3>
                     <li><a href="https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning">Andrew Ng | Convolutional Neural Networks</a>: 30-hours Coursera course (you can apply for a financial aid).</li>
-                    <li><a href="https://www.youtube.com/watch?v=ITcBQy5pSWc">Khaled El-Hady | Building Image classification model with PyTorch Arabic video</a>: 1-hour YouTube video that is a conitnutaion to the first part in the last week (loading data).</li>
-                    <li><a href="https://www.youtube.com/watch?v=X3XR7rV6WkI">Khaled El-Hady | Transfer Learning with PyTorch Arabic video</a>: 1-hour YouTube video that is a conitnutaion to the second part (building model).</li>
+                    <li><a href="https://www.youtube.com/watch?v=ITcBQy5pSWc">Khaled El-Hady | Building Image classification model with PyTorch Arabic video</a>: 1-hour YouTube video that is a continuation to the first part in the last week (loading data).</li>
+                    <li><a href="https://www.youtube.com/watch?v=X3XR7rV6WkI">Khaled El-Hady | Transfer Learning with PyTorch Arabic video</a>: 1-hour YouTube video that is a continuation to the second part (building model).</li>
                     <h3> 💡 Alternative resources</h3>
                     <li><a href="https://app.datacamp.com/learn/courses/deep-learning-for-images-with-pytorch">Deep Learning for Images with PyTorch</a>: 4-hours DataCamp course (requires subscription).</li>
                 </ul>
@@ -750,7 +751,7 @@ In this stage you will enter Deep Learning and NLP World. It's divided into ther
                 <ol>
                     <li>🏆 Complete Andrew Ng's course.</li>
                     <li>🏆 Complete Khaled El-Hady videos.</li>
-                    <li>📝 Choose one task, for example segmentation, search for an online tutorial on how to implement it and try writing code by hand.</li>
+                    <li>📝 Choose one task, for example, segmentation, search for an online tutorial on how to implement it, and try writing code by hand.</li>
                 </ol>
             </td>
         </tr>
@@ -762,7 +763,7 @@ In this stage you will enter Deep Learning and NLP World. It's divided into ther
             <td>
                 <ul>
                     <h3>🚀 Resources</h3>
-                    <li><a href="https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning">Andrew Ng | Sequence Models</a>: 35-hours Coursera course (you can apply for a financial aid).</li>
+                    <li><a href="https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning">Andrew Ng | Sequence Models</a>: 35-hour Coursera course (you can apply for financial aid).</li>
                     <li><a href="https://app.datacamp.com/learn/courses/natural-language-processing-fundamentals-in-python">Natural Language Processing Fundamentals in Python</a>: 4-hours DataCamp course (requires subscription).</li>
                     <li><a href="https://app.datacamp.com/learn/courses/deep-learning-for-text-with-pytorch">Deepl Learning for Text with PyTorch</a>: 4-hours DataCamp course (requires subscription).</li>
                     <h3> 💡 Alternative resources</h3>
@@ -799,16 +800,16 @@ In this stage you will enter Deep Learning and NLP World. It's divided into ther
             <td>
                 <ul>
                     <h3>🚀 Resources</h3>
-                    <li><a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a>: the original paper on the transformer model. You will start by now reading papers, so you need to go with it and make use of it. And if you don't understand something, just code it!</li>
+                    <li><a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a>: the original paper on the transformer model. You will start by now reading papers, so you need to go with them and make use of them. And if you don't understand something, just code it!</li>
                     <li><a href="https://www.youtube.com/watch?v=iDulhoQ2pro">Attention Is All You Need </a>: a YouTube video that will help you to understand the paper and read it.</li>
                     <h3> 💡 Required Projects</h3>
-                    <li><a href="https://www.youtube.com/watch?v=ISNdQcPhsts"> Umar Jamil | Coding a transformer from scratch on PyTorch </a> : a 3-hours YouTube video that will help you to understand the transformer model and how to build it from scratch.</li>
+                    <li><a href="https://www.youtube.com/watch?v=ISNdQcPhsts"> Umar Jamil | Coding a transformer from scratch on PyTorch </a>: a 3-hour YouTube video that will help you to understand the transformer model and how to build it from scratch.</li>
                 </ul>
             </td>
             <td>
                 <ol>
                     <li>🏆 Read the paper carefully and try to write down what you got from it.</li>
-                    <li>📝 Make the transformer model from scratch and follow along the video, you don't have to make it alone for the first time.</li>
+                    <li>📝 Make the transformer model from scratch and follow along with the video, you don't have to make it alone for the first time.</li>
                 </ol>
             </td>
         </tr>
@@ -821,8 +822,8 @@ In this stage you will enter Deep Learning and NLP World. It's divided into ther
                 <ul>
                     <h3>🚀 Resources</h3>
                     <li><a href="https://youtu.be/bQ5BoolX9Ag?si=fVcd7Jf9X0ehPnD2"> StatQuest | Decoder-Only Transformers</a>: a YouTube video that will help you to understand the decoder only and the differences between it and the normal transformer.</li>
-                    <li><a href="https://www.coursera.org/learn/generative-ai-with-llms">Generative AI with LLMs</a>: 15-hours Coursera course where you will learn about LLMs and their types and different strategies such as RLHF and PEFT.</li>
-                    <li><a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">Andrej Karpathy | Let's build GPT from scratch </a>: a 2-hours YouTube video that will help you to build decoder only transformer from scratch.</li>
+                    <li><a href="https://www.coursera.org/learn/generative-ai-with-llms">Generative AI with LLMs</a>: 15-hour Coursera course where you will learn about LLMs and their types and different strategies such as RLHF and PEFT.</li>
+                    <li><a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">Andrej Karpathy | Let's build GPT from scratch </a>: a 2-hour YouTube video that will help you to build decoder only transformer from scratch.</li>
                     <li><a href="https://huggingface.co/learn/nlp-course/chapter1/1">Hugging Face | NLP course </a>: In this tutorial you will learn wonderful libraries which you will use to work with LLMs.</li>
                     <h3> 💡 Alternative Resources</h3>
                     <li><a href="https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foundations/">The Full Stack Website | LLM Foundations</a>: a 1-hour video that will help you to understand foundations of LLMs.</li>
@@ -832,10 +833,10 @@ In this stage you will enter Deep Learning and NLP World. It's divided into ther
             <td>
                 <ol>
                     <li>🏆 Complete StatQuest's video.</li>
-                    <li>🏆 Complete Coursera course.</li>
+                    <li>🏆 Complete the Coursera course.</li>
                     <li>🏆 Finish Hugging Face tutorial.</li>
-                    <li>📝 Make the GPT model from scratch and follow along the video.</li>
-                    <li>📝 Use the libraries you learnt and try to make an NLP project.</li>
+                    <li>📝 Make the GPT model from scratch and follow along with the video.</li>
+                    <li>📝 Use the libraries you learned and try to make an NLP project.</li>
                 </ol>
             </td>
         </tr>
@@ -846,6 +847,6 @@ In this stage you will enter Deep Learning and NLP World. It's divided into ther
 
 - There are many sub-fields in this amazing field (NLP), one of them is **RAG**.
 - At first you need to learn [LangChain](https://python.langchain.com/docs/introduction/) and [LangGraph](https://langchain-ai.github.io/langgraph/tutorials/introduction/).
-- Also we recommend to you Abu Bakr Soliman's [course](https://youtube.com/playlist?list=PLvLvlVqNQGHCUR2p0b8a0QpVjDUg50wQj&si=10vb66GBnKLErwWl). In this course you will learn a lot of concepts and tools to build a really strong project like (fastap, docker, MongoDB and MVC Design pattern).
+- Also we recommend to you Abu Bakr Soliman's [course](https://youtube.com/playlist?list=PLvLvlVqNQGHCUR2p0b8a0QpVjDUg50wQj&si=10vb66GBnKLErwWl). In this course, you will learn a lot of concepts and tools to build a really strong project like (fastapه, docker, MongoDB, and MVC Design pattern).
 <br>
-> More to be added and we wil try to make this roadmap updated with latest resources.
+> More to be added and we will try to make this roadmap updated with the latest resources.
