@@ -8,19 +8,19 @@ It's a multidisciplinary field that looks at raw and structured data sets and pr
 
 ![Data-Science-ezgif com-webp-to-jpg-converter](https://github.com/user-attachments/assets/05340015-21f8-42dd-a8a0-0aee222edf8c)
 
+- For more details about each job title, you can see this [Arabic video](https://www.youtube.com/watch?v=3Y8j11j6su8) or this other [video](https://youtu.be/XW0YptcgZSk?si=0R5_nPbsKP2Sdm8f).
+
 ## 2. Levels
 
 The roadmap is divided into 4 main levels, each level will be divided into weeks and each week will have a set of tasks to be completed. Each level is designed to be completed within 1-3 months on average, however, the time taken to complete the roadmap may vary depending on the individual.
 
-```plaintext
-1. Entry: Good introduction to the field.
-2. Beginner: Data scientist toolkit and foundations.
-3. Intermediate: Dive deeper and solidly understanding and working with data.
-4. Advanced A: Mathematics and Machine Learning.
-5. Advanced B: Deep Learning and specializing in a specific field.
-```
+1. [**Entry**](#entry): Good introduction to the field.
+2. [**Beginner**](#beginner): Data scientist toolkit and foundations.
+3. [**Intermediate**](#intermediate): Dive deeper and solidly understanding and working with data.
+4. [**Advanced A**](#advanced-a): Mathematics and Machine Learning.
+5. [**Advanced B**](#advanced-b): Deep Learning and specializing in a specific field.
 
-## 2.1. Entry Level
+<h2 id="entry">2.1. Entry Level</h2>
 
 It includes the following topics:
 
@@ -138,7 +138,7 @@ It includes the following topics:
     </tbody>
 </table>
 
-## 2.2. Beginner Level
+<h2 id=beginner>2.2. Beginner Level</h2>
 
 It includes the following topics:
 
@@ -289,7 +289,7 @@ It includes the following topics:
     </tbody>
 </table>
 
-## 2.3. Intermediate Level
+<h2 id=intermediate>2.3. Intermediate Level</h2>
 
 It includes the following topics:
 
@@ -440,7 +440,7 @@ It includes the following topics:
     </tbody>
 </table>
 
-## 2.4. Advanced A Level
+<h2 id=advanced-a>2.4. Advanced A Level</h2>
 
 It includes the following topics:
 
@@ -639,7 +639,7 @@ Now we let's continue the roadmap into weeks.
 
 In this stage, you now have strong basics about machine learning algorithms and how it works. Also you learned about APIs and how to use them. Now you are ready to train models, practice on datasets and make some projects involoving the algorithms you learned. You may also make a machine learning alogrithm from **scratch**; it would be a great practice to understand the algorithms more.
 
-## 2.5. Advanced B Level
+<h2 id=advanced-b> 2.5. Advanced B Level</h2>
 In this stage you will enter Deep Learning and NLP World. It's divided into there phases:
 - Phase 1: Basic concepts of Deep Learning (NN, CNN, RNN, Backprpagation, Optimizers, etc.)
 - Phase 2: Transformers and LLMs.
