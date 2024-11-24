@@ -12,7 +12,7 @@ It's a multidisciplinary field that looks at raw and structured data sets and pr
 
 ## 2. Levels
 
-The roadmap is divided into 4 main levels, each level will be divided into weeks and each week will have a set of tasks to be completed. Each level is designed to be completed within 1-3 months on average, however, the time taken to complete the roadmap may vary depending on the individual.
+The roadmap is divided into 4 main levels, each level will be divided into weeks and each week will have a set of tasks to be completed. We will try to provide task links one by one when it's finished. Each level is designed to be completed within 1-3 months on average, however, the time taken to complete the roadmap may vary depending on the individual.
 
 1. [**Entry**](#entry): Good introduction to the field.
 2. [**Beginner**](#beginner): Data scientist toolkit and foundations.
