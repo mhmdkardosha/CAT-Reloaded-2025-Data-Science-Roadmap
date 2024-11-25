@@ -26,6 +26,7 @@ It includes the following topics:
 
 - Data Literacy
 - Understanding Data Science
+- Introduction to Statistics
 - Python Basics
 - OOP in Python
 
@@ -71,8 +72,7 @@ It includes the following topics:
             <th>Week 2</th>
             <td>
                 <ol>
-                    <li>📊 Introduction to Statistics</li>
-                    <li>🎲 Introduction to Probability</li>
+                    📊 Introduction to Statistics
                 </ol>
             </td>
             <td>
