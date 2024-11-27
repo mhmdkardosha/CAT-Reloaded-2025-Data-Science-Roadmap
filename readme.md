@@ -1,5 +1,7 @@
 <h1 align="center">Data Science Roadmap 2025</h1>
 
+> This roadmap is maintained by [Mohamed Kardosha](https://github.com/mhmdkardosha).
+
 ## 1. Introduction
 
 It's a multidisciplinary field that looks at raw and structured data sets and provides potentially actionable insights. The field of data science looks at ensuring that we are asking the right questions as opposed to finding exact answers. Data Scientists require skillsets centered on Computer Science, Mathematics, and Statistics. Data Scientists use several unique techniques to analyze data such as machine learning, trends, linear regressions, and predictive modeling. The tools that data scientists use to apply these techniques include Python and R.
@@ -643,11 +645,13 @@ In this stage, you now have strong basics about machine learning algorithms and 
 <h2 id=advanced-b> 2.5. Advanced B Level</h2>
 
 In this stage, you will enter the Deep Learning and NLP World. It's divided into three phases:
+
 - Phase 1: Basic concepts of Deep Learning (NN, CNN, RNN, Backpropagation, Optimizers, etc.)
 - Phase 2: Transformers and LLMs.
 - Phase 3: NLP fields.
 
 ### 2.5.1. Phase 1: Basic Concepts of Deep Learning
+
 <table>
     <thead>
         <tr>
@@ -783,6 +787,7 @@ In this stage, you will enter the Deep Learning and NLP World. It's divided into
 </table>
 
 ### 2.5.2. Phase 2: Transformers and LLMs
+
 <table>
     <thead>
         <tr>
@@ -801,7 +806,7 @@ In this stage, you will enter the Deep Learning and NLP World. It's divided into
             <td>
                 <ul>
                     <h3>🚀 Resources</h3>
-                    <li><a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a>: the original paper on the transformer model. You will start by now reading papers, so you need to go with them and make use of them. And if you don't understand something, just code it!</li>
+                    <li><a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a>: the original paper on the transformer model. You will start reading papers now, so you need to go with them and use them. And if you don't understand something, just code it!</li>
                     <li><a href="https://www.youtube.com/watch?v=iDulhoQ2pro">Attention Is All You Need </a>: a YouTube video that will help you to understand the paper and read it.</li>
                     <h3> 💡 Required Projects</h3>
                     <li><a href="https://www.youtube.com/watch?v=ISNdQcPhsts"> Umar Jamil | Coding a transformer from scratch on PyTorch </a>: a 3-hour YouTube video that will help you to understand the transformer model and how to build it from scratch.</li>
@@ -848,6 +853,13 @@ In this stage, you will enter the Deep Learning and NLP World. It's divided into
 
 - There are many sub-fields in this amazing field (NLP), one of them is **RAG**.
 - At first you need to learn [LangChain](https://python.langchain.com/docs/introduction/) and [LangGraph](https://langchain-ai.github.io/langgraph/tutorials/introduction/).
-- Also we recommend to you Abu Bakr Soliman's [course](https://youtube.com/playlist?list=PLvLvlVqNQGHCUR2p0b8a0QpVjDUg50wQj&si=10vb66GBnKLErwWl). In this course, you will learn a lot of concepts and tools to build a really strong project like (fastapه, docker, MongoDB, and MVC Design pattern).
-<br>
-> More to be added and we will try to make this roadmap updated with the latest resources.
+- Also we recommend to you Abu Bakr Soliman's [course](https://youtube.com/playlist?list=PLvLvlVqNQGHCUR2p0b8a0QpVjDUg50wQj&si=10vb66GBnKLErwWl). In this course, you will learn a lot of concepts and tools to build a solid project like (fastapه, docker, MongoDB, and MVC Design pattern).
+<be>
+
+> More to be added and we will try to update this roadmap with the latest resources.
+--------------------------------------------------------------------------------------------------------------------------
+
+If you need to ask any questions or clarifications for some topic, don't hesitate to ask us:
+
+- [Mohamed Kardosha](https://github.com/mhmdkardosha): Data Science circle **Head**.
+- [Doaa Helal](https://github.com/Doaa-Helal): Data Science circle **Vice-Head**.
