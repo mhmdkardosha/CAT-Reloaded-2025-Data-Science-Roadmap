@@ -1,7 +1,5 @@
 <h1 align="center">Data Science Roadmap 2025</h1>
 
-> This roadmap is maintained by [Mohamed Kardosha](https://github.com/mhmdkardosha).
-
 ## 1. Introduction
 
 It's a multidisciplinary field that looks at raw and structured data sets and provides potentially actionable insights. The field of data science looks at ensuring that we are asking the right questions as opposed to finding exact answers. Data Scientists require skillsets centered on Computer Science, Mathematics, and Statistics. Data Scientists use several unique techniques to analyze data such as machine learning, trends, linear regressions, and predictive modeling. The tools that data scientists use to apply these techniques include Python and R.
@@ -857,9 +855,3 @@ In this stage, you will enter the Deep Learning and NLP World. It's divided into
 <be>
 
 > More to be added and we will try to update this roadmap with the latest resources.
---------------------------------------------------------------------------------------------------------------------------
-
-If you need to ask any questions or clarifications for some topic, don't hesitate to ask us:
-
-- [Mohamed Kardosha](https://github.com/mhmdkardosha): Data Science circle **Head**.
-- [Doaa Helal](https://github.com/Doaa-Helal): Data Science circle **Vice-Head**.
