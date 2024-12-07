@@ -643,11 +643,13 @@ In this stage, you now have strong basics about machine learning algorithms and 
 <h2 id=advanced-b> 2.5. Advanced B Level</h2>
 
 In this stage, you will enter the Deep Learning and NLP World. It's divided into three phases:
+
 - Phase 1: Basic concepts of Deep Learning (NN, CNN, RNN, Backpropagation, Optimizers, etc.)
 - Phase 2: Transformers and LLMs.
 - Phase 3: NLP fields.
 
 ### 2.5.1. Phase 1: Basic Concepts of Deep Learning
+
 <table>
     <thead>
         <tr>
@@ -668,7 +670,6 @@ In this stage, you will enter the Deep Learning and NLP World. It's divided into
                     <h3>🚀 Resources</h3>
                     <li><a href="https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning">Andrew Ng | Neural Networks and Deep Learning</a>: 20-hours Coursera course (you can apply for a financial aid).</li>
                     <li><a href="https://youtu.be/VMj-3S1tku0?si=xN0gneCmzYAOewI9">Andrej Karpathy | Neural Network from scratch</a>: You will do the practical work by building a small framework that builds neural networks from scratch.</li>
-                    <li><a href="https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras">Introduction to Deep Learning with Keras</a>: 4-hours DataCamp course (requires subscription).</li>
                     <h3> 💡 Alternative resources</h3>
                     <li><a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">3Blue1Brown | Neural Networks</a>: YouTube playlist (recommended).</li>
                     <li><a href="https://www.youtube.com/playlist?list=PL6-3IRz2XF5X-lzMZdmkvGAx1a3kIm7_I">Hesham Asem | Deep Learning Arabic course</a>: YouTube playlist (Free).</li>
@@ -783,6 +784,7 @@ In this stage, you will enter the Deep Learning and NLP World. It's divided into
 </table>
 
 ### 2.5.2. Phase 2: Transformers and LLMs
+
 <table>
     <thead>
         <tr>
@@ -850,4 +852,5 @@ In this stage, you will enter the Deep Learning and NLP World. It's divided into
 - At first you need to learn [LangChain](https://python.langchain.com/docs/introduction/) and [LangGraph](https://langchain-ai.github.io/langgraph/tutorials/introduction/).
 - Also we recommend to you Abu Bakr Soliman's [course](https://youtube.com/playlist?list=PLvLvlVqNQGHCUR2p0b8a0QpVjDUg50wQj&si=10vb66GBnKLErwWl). In this course, you will learn a lot of concepts and tools to build a really strong project like (fastapه, docker, MongoDB, and MVC Design pattern).
 <br>
+
 > More to be added and we will try to make this roadmap updated with the latest resources.
