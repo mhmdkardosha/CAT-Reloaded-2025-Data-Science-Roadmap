@@ -803,7 +803,7 @@ In this stage, you will enter the Deep Learning and NLP World. It's divided into
             <td>
                 <ul>
                     <h3>🚀 Resources</h3>
-                    <li><a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a>: the original paper on the transformer model. You will start by now reading papers, so you need to go with them and make use of them. And if you don't understand something, just code it!</li>
+                    <li><a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a>: the original paper on the transformer model. You will start reading papers now, so you need to go with them and use them. And if you don't understand something, just code it!</li>
                     <li><a href="https://www.youtube.com/watch?v=iDulhoQ2pro">Attention Is All You Need </a>: a YouTube video that will help you to understand the paper and read it.</li>
                     <h3> 💡 Required Projects</h3>
                     <li><a href="https://www.youtube.com/watch?v=ISNdQcPhsts"> Umar Jamil | Coding a transformer from scratch on PyTorch </a>: a 3-hour YouTube video that will help you to understand the transformer model and how to build it from scratch.</li>
@@ -852,5 +852,4 @@ In this stage, you will enter the Deep Learning and NLP World. It's divided into
 - At first you need to learn [LangChain](https://python.langchain.com/docs/introduction/) and [LangGraph](https://langchain-ai.github.io/langgraph/tutorials/introduction/).
 - Also we recommend to you Abu Bakr Soliman's [course](https://youtube.com/playlist?list=PLvLvlVqNQGHCUR2p0b8a0QpVjDUg50wQj&si=10vb66GBnKLErwWl). In this course, you will learn a lot of concepts and tools to build a really strong project like (fastapه, docker, MongoDB, and MVC Design pattern).
 <br>
-
 > More to be added and we will try to make this roadmap updated with the latest resources.
