@@ -1,5 +1,7 @@
 <h1 align="center">Data Science Roadmap 2025</h1>
 
+> This roadmap is maintained by [Mohamed Kardosha](https://github.com/mhmdkardosha).
+
 ## 1. Introduction
 
 It's a multidisciplinary field that looks at raw and structured data sets and provides potentially actionable insights. The field of data science looks at ensuring that we are asking the right questions as opposed to finding exact answers. Data Scientists require skillsets centered on Computer Science, Mathematics, and Statistics. Data Scientists use several unique techniques to analyze data such as machine learning, trends, linear regressions, and predictive modeling. The tools that data scientists use to apply these techniques include Python and R.
@@ -177,7 +179,7 @@ It includes the following topics:
             <td>
                 <ol>
                     <li>🏆 Complete Keith Galli's NumPy tutorial.</li>
-                    <li>📝 Quiz.</li>
+                    <li>📝Solve <a href="https://drive.google.com/file/d/1IRzTGmUCzz3GJyxAIWAAsykXk_95l5ht/view?usp=sharing">task notebook</a>.</li>
                 </ol>
             </td>
         </tr>
@@ -200,7 +202,7 @@ It includes the following topics:
             <td>
                 <ol>
                     <li>🏆 Complete Corey Schafer's course.</li>
-                    <li>📝 Quiz.</li>
+                    <li>📝Solve <a href="https://drive.google.com/drive/folders/1ES61cauS4qbT-KuC-BabBYv3wBYZ4KAf?usp=sharing">task notebook</a>.</li>
                 </ol>
             </td>
         </tr>
@@ -244,6 +246,7 @@ It includes the following topics:
                 <ol>
                     <li>🏆 Complete Kimberly Fessel's course.</li>
                     <li>💡 Practice and document all that you learned in a notebook.</li>
+                    <li>📝 Solve <a href="https://colab.research.google.com/drive/1PApywZw8dVapY25hvcmHVArfdW-rmNSB?usp=sharing">task notebook</a> (use this <a href="https://www.kaggle.com/datasets/cat-reloaded-data-science/movies?authuser=0">data</a> in your visualizations).</li>
                 </ol>
             </td>
         </tr>
@@ -323,13 +326,13 @@ It includes the following topics:
                     <h3>💡 Alternative resources</h3>
                     <li><a href="https://www.w3schools.com/python/python_regex.asp">Python RegEx documentation</a>.</li>
                     <li><a href="https://youtu.be/K8L6KVGG-7o?si=SZYD07npXZ74qyUD">Corey Schafer | Regular Expressions</a>: 1-hour YouTube video (Free).</li>
-                    <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=K2_7VELcasmhtGc8">Osama Elzero | Regular Expressions Arabic course</a>: YouTube playlist from 95th video to 102th video (Free).</li>
+                    <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=K2_7VELcasmhtGc8">Osama Elzero | Regular Expressions Arabic course</a>: YouTube playlist from <strong>95th</strong> video to <strong>102th</strong> video (Free).</li>
                 </ul>
             </td>
             <td>
                 <ol>
-                    <li>🏆 Complete the Regular Expressions in Python course.</li>
-                    <li>📝 Quiz.</li>
+                    <li>🏆 Complete the Regular Expressions in Python DataCamp course.</li>
+                    <li>📝 Solve <a href="https://drive.google.com/drive/folders/12h8BLm_8ZdzB-eKVQxXwnvRl6NIGCrj0?usp=sharing">task notebook</a> (data included in the folder).</li>
                 </ol>
             </td>
         </tr>
@@ -350,7 +353,7 @@ It includes the following topics:
                 <ol>
                     <li>🏆 Complete the Cleaning Data in Python course.</li>
                     <li>📝 Read the blog and extract your insights from it.</li>
-                    <li>💡 Practicing in a notebook with any dataset.</li>
+                    <li>💡 Practice cleaning in the <a href="https://drive.google.com/drive/folders/1Nxi3h7cxIFDJ1Zr8LajnHYDA2cuLDAK2?usp=sharing">task notebook</a> with Candy dataset (considered one of the best data cleaning practice datasets).</li>
                 </ol>
             </td>
         </tr>
@@ -370,7 +373,6 @@ It includes the following topics:
                 <ol>
                     <li>🏆 Complete the Feature Engineering for Machine Learning in Python course.</li>
                     <li>📝 Read the blog and extract your insights from it.</li>
-                    <li>💡 Practicing in a notebook with any dataset.</li>
                 </ol>
             </td>
         </tr>
@@ -393,7 +395,7 @@ It includes the following topics:
                 <ol>
                     <li>🏆 Complete the Exploratory Data Analysis in Python course.</li>
                     <li>📝 Read the blog and extract your insights from it.</li>
-                    <li>💡 Practicing in a notebook with any dataset.</li>
+                    <li>💡 Practicing Feature Engineering and EDA in the <a href="https://drive.google.com/drive/folders/1PFKCoQA2jak1RTYcsQRg7hYSN_BlHJB4">task notebook</a> (data included in the folder).</li>
                 </ol>
             </td>
         </tr>
@@ -405,15 +407,16 @@ It includes the following topics:
             <td>
                 <ul>
                     <h3>🚀 Base resources</h3>
-                    <li><a href="https://youtu.be/taL3r_JpwBg?si=WP4fGnx8fp47IBgZ">Codezilla | Web Scraping with Python Arabic</a>: 1-hour YouTube video (Free).</li>
-                    <h3> 💡 Alternative resources</h3>
-                    <li><a href="https://app.datacamp.com/learn/courses/web-scraping-with-python">Web Scraping with Python</a>: 4-hours DataCamp course (requires subscription).</li>
+                    <li><a href="https://app.datacamp.com/learn/courses/web-scraping-in-python">Web Scraping in Python</a>: 4-hours DataCamp course (requires subscription).</li>
+                    <li><a href="https://www.youtube.com/watch?v=q0ert5YP968">Codezilla | Web Scraping with Python Arabic</a>: 1-hour YouTube video (Free).</li>
+                    <li><a href="https://youtu.be/mBoX_JCKZTE?si=kUL590DAPkYgLT2N">freeCodeCamp | Scrapy course</a>: 1.5-hour YouTube video (Free).</li>
                 </ul>
             </td>
             <td>
                 <ol>
-                    <li>🏆 Complete Codezilla's Web Scraping with Python course.</li>
-                    <li>💡 Practice and scrape any website.</li >
+                    <li>🏆 Complete DataCamp Web Scraping in Python course.</li>
+                    <li>🏆 Complete freeCodeCamp Scrapy course.</li>
+                    <li>💡 Practice and scrape any website.(eg. <a href="https://sandbox.oxylabs.io/products">Oxylabs</a>)</li>
                 </ol>
             </td>
         </tr>
@@ -427,6 +430,7 @@ It includes the following topics:
                     <h3>🚀 Base resources</h3>
                     <li><a href="https://app.datacamp.com/learn/skill-tracks/sql-fundamentals">SQL Fundamentals</a>: 26-hours DataCamp skill track (requires subscription).</li>
                     <h3> 💡 Alternative resources</h3>
+                    <li><a href="https://cs50.harvard.edu/sql/2024/">CS50 | Introduction to Databases with SQL</a>: 10-hours comperhensive course (Free).</li>
                     <li><a href="https://www.udacity.com/course/sql-for-data-analysis--ud198">Udacity | SQL For Data Analysis</a>: Udacity course (Free).</li>
                     <li><a href="https://www.youtube.com/watch?v=kb-_GbpH3sQ">Big Data | SQL For Data Analysis Arabic</a>: 10-hours YouTube video (Free).</li>
                 </ul>
@@ -434,7 +438,7 @@ It includes the following topics:
             <td>
                 <ol>
                     <li>🏆 Complete the skill track.</li>
-                    <li>💡 Practice problems on HackerRank.</li>`
+                    <li>💡 Practice problems on HackerRank.</li>
                 </ol>
             </td>
         </tr>
@@ -477,14 +481,15 @@ It includes the following topics:
                     <h3> 💡 Alternative resources</h3>
                     <li><a href="https://www.3blue1brown.com/topics/linear-algebra">3Blue1Brown | Essence of Linear Algebra</a>:  Free course (recommended).</li>
                     <li><a href="https://www.khanacademy.org/math/linear-algebra">Khan Academy | Linear Algebra</a>: Free course.</li>
-                    <li><a href="https://youtube.com/playlist?list=PL49CF3715CB9EF31D&si=TRVsXm-kF8ijaB24">MIT OpenCourseWare | Linear Algebra</a>: You can watch this along the way while you learning ML because it's a massive playlist full of ideas.</li>
+                    <li><a href="https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/">MIT OpenCourseWare | Linear Algebra</a>: You can watch this along the way while you learning ML because it's a massive playlist full of ideas (recommened but intensive).</li>
                     <li><a href="https://www.youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ">Linear Algebra Arabic course</a>: YouTube playlist (Free).</li>
                 </ul>
             </td>
             <td>
                 <ol>
                     <li>🏆 Complete the Imperial College London course.</li>
-                    <li>📝 Quiz.</li>
+                    <li>📝 Solve the <a href="https://forms.gle/Wc2FN1sCvxutkL7V6">MCQ quiz</a>.</li>
+                    <li>💡 Solve the <a href="https://drive.google.com/file/d/1zjhC7xKR8LTJj0pFiG5jjsdYzzTgdqMl/view?usp=sharing">task notebook</a>.</li>
                 </ol>
             </td>
         </tr>
@@ -505,7 +510,8 @@ It includes the following topics:
             <td>
                 <ol>
                     <li>🏆 Complete the Imperial College London course.</li>
-                    <li>📝 Quiz.</li>
+                    <li>📝 Solve the <a href="https://forms.gle/JG14eVXAh4muiLdd8">MCQ quiz</a>.</li>
+                    <li>💡 Solve the <a href="https://colab.research.google.com/drive/1j_bOiw022XFXyoSRvi6ju0dF7B0OQHXn?usp=sharing">task notebook</a>.</li> 
                 </ol>
             </td>
         </tr>
@@ -550,7 +556,8 @@ Now we let's continue the roadmap into weeks.
                 <ol>
                     <li>🏆 Complete Andrew Ng's course.</li>
                     <li>🏆 Complete the DataCamp course.</li>
-                    <li>📝 Quiz.</li>
+                    <li>📝 Solve the <a href="https://drive.google.com/file/d/1e_MAU0DX5CKnftyqsbr5Sh83OsIhxF18/view?usp=sharing">task notebook</a>(consider this <a href="https://drive.google.com/file/d/1E4rJzlOSPSB914-cQFLk3U02E90iF24v/view?usp=sharing">data</a>).</li>
+                    <li>📝 Solve (week 3) <a href="https://drive.google.com/file/d/1GZiVMo2bBkSyveZDTPvbvwnuRsWXortF/view?usp=sharing">task notebook</a>.</li>
                 </ol>
             </td>
         </tr>
@@ -567,7 +574,7 @@ Now we let's continue the roadmap into weeks.
             <td>
                 <ol>
                     <li>🏆 Study the chapter and summarize it.</li>
-                    <li>📝 Quiz on each chapter.</li>
+                    <li>📝 Solve the task, if you find it in this <a href="https://drive.google.com/drive/folders/15U1alOxW0WZUX2UnieNYpJVjPiOf5Sr1?usp=sharing">folder</a>, for each chapter in the book.</li>
                 </ol>
             </td>
         </tr>
@@ -803,7 +810,7 @@ In this stage, you will enter the Deep Learning and NLP World. It's divided into
             <td>
                 <ul>
                     <h3>🚀 Resources</h3>
-                    <li><a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a>: the original paper on the transformer model. You will start reading papers now, so you need to go with them and use them. And if you don't understand something, just code it!</li>
+                    <li><a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a>: the original paper on the transformer model. You will start by now reading papers, so you need to go with them and make use of them. And if you don't understand something, just code it!</li>
                     <li><a href="https://www.youtube.com/watch?v=iDulhoQ2pro">Attention Is All You Need </a>: a YouTube video that will help you to understand the paper and read it.</li>
                     <h3> 💡 Required Projects</h3>
                     <li><a href="https://www.youtube.com/watch?v=ISNdQcPhsts"> Umar Jamil | Coding a transformer from scratch on PyTorch </a>: a 3-hour YouTube video that will help you to understand the transformer model and how to build it from scratch.</li>
@@ -850,6 +857,13 @@ In this stage, you will enter the Deep Learning and NLP World. It's divided into
 
 - There are many sub-fields in this amazing field (NLP), one of them is **RAG**.
 - At first you need to learn [LangChain](https://python.langchain.com/docs/introduction/) and [LangGraph](https://langchain-ai.github.io/langgraph/tutorials/introduction/).
-- Also we recommend to you Abu Bakr Soliman's [course](https://youtube.com/playlist?list=PLvLvlVqNQGHCUR2p0b8a0QpVjDUg50wQj&si=10vb66GBnKLErwWl). In this course, you will learn a lot of concepts and tools to build a really strong project like (fastapه, docker, MongoDB, and MVC Design pattern).
-<br>
-> More to be added and we will try to make this roadmap updated with the latest resources.
+- Also we recommend to you Abu Bakr Soliman's [course](https://youtube.com/playlist?list=PLvLvlVqNQGHCUR2p0b8a0QpVjDUg50wQj&si=10vb66GBnKLErwWl). In this course, you will learn a lot of concepts and tools to build a solid project like (fastapه, docker, MongoDB, and MVC Design pattern).
+<be>
+
+> More to be added and we will try to update this roadmap with the latest resources.
+--------------------------------------------------------------------------------------------------------------------------
+
+If you need to ask any questions or clarifications for some topic, don't hesitate to ask us:
+
+- [Mohamed Kardosha](https://github.com/mhmdkardosha): Data Science circle **Head**.
+- [Doaa Helal](https://github.com/Doaa-Helal): Data Science circle **Vice-Head**.
