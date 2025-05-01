@@ -574,7 +574,7 @@ Now we let's continue the roadmap into weeks.
             <td>
                 <ol>
                     <li>🏆 Study the chapter and summarize it.</li>
-                    <li>📝 Solve the task, if you find it in this <a href="blank">folder</a>, for each chapter in the book.</li>
+                    <li>📝 Solve the task, if you find it in this <a href="https://drive.google.com/drive/folders/1KNwUR9TcP3XPaiuXuleGgMXr0xYlPVCf?usp=sharing">folder</a>, for each chapter in the book and choose any data from <a href="https://www.kaggle.com/organizations/cat-reloaded-data-science/datasets">CAT Reloaded Kaggle profile</a>.</li>
                 </ol>
             </td>
         </tr>
